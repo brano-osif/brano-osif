@@ -22,4 +22,4 @@ TypeScript, React, Next.js, Node.js, Ruby on Rails, PostgreSQL, MongoDB, Elastic
 
 #### Contact
 
-📧 brano@osif.digital · [LinkedIn](https://www.linkedin.com/in/branislav-osif-7b11a31b6) · [osif.digital](https://osif.digital)
+📧 brano@osif.digital · [LinkedIn](https://www.linkedin.com/in/brano-osif) · [osif.digital](https://osif.digital)
